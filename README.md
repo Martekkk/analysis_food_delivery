@@ -8,7 +8,7 @@ The analysis includes data cleaning, exploratory data analysis, vizualization an
 - **Visualization**: Creating insightful charts and dashboards.
 - **Predictive Modeling**: Building machine learning models to predict delivery times and order cancellations.
 - **Business Insights**: Providing actionable recommendations for restaurants and delivery platforms.
-- 
+  
 ## Technologies used
 - **Programming Language**: Python
 - **Data Analysis**: pandas, numpy
