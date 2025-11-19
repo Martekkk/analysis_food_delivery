@@ -1,4 +1,4 @@
-# my_first_project
+# Analysis of order delivery dataset
 ## Short description
 This project analyzes a dataset of 21 321 food orders from 6 different restaurants (The Chicken Junction, Aura Pizzas, Masala Junction, Tandoori Junction, Swaad, Dilli Burger Adda).
 The analysis includes data cleaning, exploratory data analysis, vizualization and prediction models for delivery time and customer satisfaction.
